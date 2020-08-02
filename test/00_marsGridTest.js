@@ -5,8 +5,6 @@ const expect = require('chai').expect;
 const InputData = require('../model/inputData.js');
 const MarsGrid = require('../model/marsGrid.js');
 const Robot = require('../model/robot.js');
-const fileServices = require('../services/fileServices');
-
 
 describe('### MARS GRID: ', () => {
 
